@@ -52,7 +52,10 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14323</dc:source>
 		<dc:source>https://archive.org/details/downtherelabas00huys</dc:source>
-		<meta property="se:production-notes">The scans aren’t a direct match: (1) the text has slightly different typography and (2) there is a missing scene in the scans at https://archive.org/details/downtherelabas00huys/page/192/mode/1up that’s in the transcription.</meta>
+		<meta property="se:production-notes">
+			• The scans aren’t a direct match: (1) the text has slightly different typography and (2) there is a missing scene in the scans at https://archive.org/details/downtherelabas00huys/page/192/mode/1up that’s in the transcription.
+			• “Extra-terrestrial” left with a hyphen, as the word without now has different connotations.
+		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/L%C3%A0-bas_(novel)</meta>
