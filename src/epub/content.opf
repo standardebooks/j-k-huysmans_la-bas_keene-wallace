@@ -45,9 +45,14 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2010111931</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Durtal</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
+		<dc:description id="description">An author struggles to complete his book without practical experience of Satanism.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The Parisian author &lt;a href="https://standardebooks.org/collections/durtal"&gt;Durtal&lt;/a&gt; is hard at work on his biography of the French knight and notorious child-murderer Gilles de Rais, but the question of how a confidant of Joan of Arc became such a figure of depravity is difficult to answer. Turning to his friend and confidant Des Hermies, he gradually discovers that the Satanism of de Rais’ time is not only still active in the Paris of the 1890s, but that he has practitioners in his social circle.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-k-huysmans"&gt;&lt;abbr&gt;J.-K.&lt;/abbr&gt; Huysmans&lt;/a&gt;–already famous from the success of &lt;a href="https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux"&gt;&lt;i&gt;Against the Grain&lt;/i&gt;&lt;/a&gt;–wrote &lt;i lang="fr"&gt;Là-Bas&lt;/i&gt; (alternatively translated as &lt;i&gt;Down There&lt;/i&gt;) at a time when he was struggling with his journey back to Catholicism, and the character of Durtal is a fairly unsubtle reference to the author. Each character represents an allegorical faction in the religious debates of the time, and their conversations and interactions with Durtal help him navigate to his own spiritual truth. The novel’s descriptions of both Satanic ceremonies and de Rais’ sexual violence against children shocked fin de siècle France; if a modern reader with a taste for horror is inured to the first, the second retains its nauseating power.&lt;/p&gt;
+			&lt;p&gt;Presented here is the 1928 private printing of Keene Wallace’s 1924 translation from Huysmans’ original French, which reinstates a scene of a sexual nature excised from the earlier release.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14323</dc:source>
