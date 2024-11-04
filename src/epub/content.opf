@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/j-k-huysmans/la-bas/keene-wallace</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-11-04T16:36:14Z</dc:date>
+		<meta property="dcterms:modified">2024-11-04T16:36:14Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -26,8 +26,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title" xml:lang="fr">Là-Bas</dc:title>
-		<meta property="file-as" refines="#title" xml:lang="fr">Là-Bas</meta>
+		<dc:title id="title">Là-Bas</dc:title>
+		<meta property="file-as" refines="#title">Là-Bas</meta>
 		<meta property="dcterms:alternative" refines="#title">Down There</meta>
 		<dc:subject id="subject-1">Erotic stories</dc:subject>
 		<dc:subject id="subject-2">Paranormal fiction</dc:subject>
@@ -48,11 +48,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Durtal</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">An author struggles to complete his book without practical experience of Satanism.</dc:description>
+		<dc:description id="description">An author struggles to complete his book without having any practical experience of Satanism.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The Parisian author &lt;a href="https://standardebooks.org/collections/durtal"&gt;Durtal&lt;/a&gt; is hard at work on his biography of the French knight and notorious child-murderer Gilles de Rais, but the question of how a confidant of Joan of Arc became such a figure of depravity is difficult to answer. Turning to his friend and confidant Des Hermies, he gradually discovers that the Satanism of de Rais’ time is not only still active in the Paris of the 1890s, but that he has practitioners in his social circle.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-k-huysmans"&gt;&lt;abbr&gt;J.-K.&lt;/abbr&gt; Huysmans&lt;/a&gt;–already famous from the success of &lt;a href="https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux"&gt;&lt;i&gt;Against the Grain&lt;/i&gt;&lt;/a&gt;–wrote &lt;i lang="fr"&gt;Là-Bas&lt;/i&gt; (alternatively translated as &lt;i&gt;Down There&lt;/i&gt;) at a time when he was struggling with his journey back to Catholicism, and the character of Durtal is a fairly unsubtle reference to the author. Each character represents an allegorical faction in the religious debates of the time, and their conversations and interactions with Durtal help him navigate to his own spiritual truth. The novel’s descriptions of both Satanic ceremonies and de Rais’ sexual violence against children shocked fin de siècle France; if a modern reader with a taste for horror is inured to the first, the second retains its nauseating power.&lt;/p&gt;
-			&lt;p&gt;Presented here is the 1928 private printing of Keene Wallace’s 1924 translation from Huysmans’ original French, which reinstates a scene of a sexual nature excised from the earlier release.&lt;/p&gt;
+			&lt;p&gt;The Parisian author &lt;a href="https://standardebooks.org/collections/durtal"&gt;Durtal&lt;/a&gt; is hard at work on his biography of the French knight and notorious child-murderer Gilles de Rais, but the question of how a confidant of Joan of Arc became such a figure of depravity is difficult to answer. Turning to his friend and confidant Des Hermies, he gradually discovers that the Satanism of de Rais’ time is not only still active in the Paris of the 1890s, but that there are practitioners in his social circle.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-k-huysmans"&gt;&lt;abbr&gt;J.-K.&lt;/abbr&gt; Huysmans&lt;/a&gt;–already famous from the success of &lt;a href="https://standardebooks.org/ebooks/j-k-huysmans/against-the-grain/groves-michaux"&gt;&lt;i&gt;Against the Grain&lt;/i&gt;&lt;/a&gt;–wrote &lt;i lang="fr"&gt;Là-Bas&lt;/i&gt; (alternatively translated as &lt;i&gt;Down There&lt;/i&gt;) at a time when he was struggling with his journey back to Catholicism, and the character of Durtal is a fairly unsubtle autobiographical portrait. Each character represents an allegorical faction in the religious debates of the time, and their conversations and interactions with Durtal help him navigate his own spiritual truth. The novel’s descriptions of both Satanic ceremonies and de Rais’ sexual violence against children shocked fin de siècle France; if a modern reader with a taste for horror is inured to the first, the second retains its nauseating power.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition is Keene Wallace’s 1924 translation from Huysmans’ original French, plus a restored scene of a sexual nature that had been excised from some other editions.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/14323</dc:source>
@@ -61,8 +61,8 @@
 			• The scans aren’t a direct match: (1) the text has slightly different typography and (2) there is a missing scene in the scans at https://archive.org/details/downtherelabas00huys/page/192/mode/1up that’s in the transcription.
 			• “Extra-terrestrial” left with a hyphen, as the word without now has different connotations.
 		</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">90540</meta>
+		<meta property="se:reading-ease.flesch">62.48</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/L%C3%A0-bas_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-k-huysmans_la-bas_keene-wallace</meta>
 		<dc:creator id="author">J.-K. Huysmans</dc:creator>
@@ -100,6 +100,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
