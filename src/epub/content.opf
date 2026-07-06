@@ -62,7 +62,7 @@
 		<meta property="schema:wordCount">89844</meta>
 		<meta property="schema:educationalLevel">62.48</meta>
 		<link href="https://en.wikipedia.org/wiki/L%C3%A0-bas_(novel)" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/j-k-huysmans_la-bas_keene-wallace" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">J.-K. Huysmans</dc:creator>
