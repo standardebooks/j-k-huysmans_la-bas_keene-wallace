@@ -33,9 +33,9 @@
 		<meta property="dcterms:alternative" refines="#title">Down There</meta>
 		<dc:subject id="subject-1">Erotic stories</dc:subject>
 		<dc:subject id="subject-2">Paranormal fiction</dc:subject>
-		<dc:subject id="subject-3">Rais, Gilles de, 1404-1440 -- Fiction</dc:subject>
-		<dc:subject id="subject-4">France -- History -- 15th century -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Satanism -- Fiction</dc:subject>
+		<dc:subject id="subject-3">Rais, Gilles de, 1404-1440--Fiction</dc:subject>
+		<dc:subject id="subject-4">France--History--15th century--Fiction</dc:subject>
+		<dc:subject id="subject-5">Satanism--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85044708</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
