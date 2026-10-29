@@ -77,7 +77,7 @@
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Ludwik Stasiak</dc:contributor>
 		<meta property="file-as" refines="#artist">Stasiak, Ludwik</meta>
-		<meta property="schema:alternateName" refines="#author">Ludwik Józef Stasiak</meta>
+		<meta property="schema:alternateName" refines="#artist">Ludwik Józef Stasiak</meta>
 		<link href="https://en.wikipedia.org/wiki/Ludwik_Stasiak" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n83025811.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
